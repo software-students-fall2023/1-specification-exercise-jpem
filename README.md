@@ -4,11 +4,29 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Jazlene Darrisaw](https://github.com/Jazlene30)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+
+### StakeHolder: Talani D.
+
+
+### Problems/Frustrations
+
+1. Not enough information provided about animals and their traits when trying to adopt.
+2. Fears of being scammed by unreliable adoption services.
+3. Wasting time with too much paperwork or services that are unprofessional.
+
+### Goals/Needs
+
+1. To gain a Furr-Ever Friend!
+2. Finding a way to help deal with Anxiety and Stress.
+3. Finding the right animal that suits their personality and lifestyle (Ex: An active pet for an active and adventurous person) withought the extra time and resources devoted to searching.
+4. A way to find a legitimate ESA without encountering questionable adoption services.
+5. To help more animals find homes and match with people in need of a companion.
+6. To Provide a different solution for those who need assistance with mental health but may not be able to schedule appointments with a therapist or psychologist.
+
 
 ## Product Vision Statement
 
