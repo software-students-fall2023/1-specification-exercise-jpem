@@ -12,21 +12,21 @@ A little exercise to get started with the specification phase of the software de
 
 Stakeholder Interview 1:
 
-College aged student that is missing home and has some anxiety due to their detatchment from friends and family. Finding community has been hard in the big city and so they are seeking support.
+A college-aged student who is missing home and has some anxiety due to their detachment from friends and family. Finding community has been hard in the big city and so they are seeking support.
 
-Stakeholder Problems and Frustations
+Stakeholder Problems and Frustrations
 
 1. Have a hard time finding mental health support 
 2. There is a lot of repeated paperwork when searching for an animal
 3. It is very hard to find verified establishments to find support animals. This verification falls on the user
-4. Hard to find animals that are matched to what they are looking for, so they spend a lot of time surfing the internet looking for that specific animal. 
+4. Hard to find animals that match what they are looking for, so they spend a lot of time surfing the internet looking for that specific animal. 
 
 Stakeholder Goals and Needs
 
-1. Want to be able to find mental support easiliy through an application
-2. Want to find animals that match their personality type.
-3. Want to find animals from verified shelters and not have to worry about getting scammed.
-4. Want to be able to filter through emotional support animals based on how much work they are to take care of versus how much support they provide.
+1. Want to be able to find mental support easily through an application
+2. Want to find animals that match their personality type?
+3. Want to find animals from verified shelters and not have to worry about getting scammed?
+4. Want to be able to filter through emotional support animals based on how much work they are to take care of versus how much support they provide?
 
 ## Product Vision Statement
 **Ideation:**
@@ -91,7 +91,8 @@ As a user, I want to interact with a community of like-minded individuals who ha
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![diagram](https://github.com/software-students-fall2023/1-specification-exercise-jpem/assets/49916453/7be85f48-a1fb-44b9-a0f3-a7adafbf7d9a)
+
 
 ## Clickable Prototype
 
