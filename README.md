@@ -2,11 +2,6 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
-
-# Specification Phase Exercise
-
-This document outlines our approach to the specification phase of the software development lifecycle. For a comprehensive guide, please refer to our [instructions](instructions.md).
-
 ## Table of Contents
 
 - [Team Members](#team-members)
