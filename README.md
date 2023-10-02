@@ -47,15 +47,15 @@ This document outlines our approach to the specification phase of the software d
 ## Product Vision
 
 ### Ideation:
-**Concept:** "SoulPet" is a dedicated mobile application designed to connect individuals, particularly those navigating feelings of loneliness or isolation, with the ideal emotional support animal. With a focus on nurturing genuine connections, SoulPet ensures a foundation of mutual respect and companionship.
+**Concept:** "SoulPet" is a dedicated mobile application designed to connect individuals, particularly those navigating loneliness or isolation, with the ideal emotional support animal. With a focus on nurturing genuine connections, SoulPet ensures a foundation of mutual respect and companionship.
 
 **Target Audience:** 
 - Individuals experiencing feelings of loneliness, isolation, or emotional distress.
-- Those contemplating or having previously considered an emotional support animal, but are apprehensive about compatibility.
+- Those contemplating or having previously considered an emotional support animal but are apprehensive about compatibility.
 - Users who lean towards technology-based solutions and appreciate the convenience of mobile platforms.
 
 ### Product Vision Statement:
-SoulPet aims to be a leading platform that intuitively links individuals in search of emotional companionship with the perfect emotional support animal, seamlessly bridging the space between solitude and unwavering affection.
+SoulPet aims to be a leading platform that intuitively links individuals seeking emotional companionship with the perfect emotional support animal, seamlessly bridging the space between solitude and unwavering affection.
 
 ---
 
@@ -69,7 +69,7 @@ SoulPet aims to be a leading platform that intuitively links individuals in sear
 
 - **Learning About the Animal:** As a prospective pet owner, I want to see detailed profiles of the animals, including their history, temperament, and needs, so that I can make an informed decision.
 
-- **Easy Communication:** As a user, I want to easily communicate with shelters or current owners so that I can ask questions and arrange meetings with potential emotional support animals.
+- **Easy Communication:** As a user, I want to communicate easily with shelters or current owners so that I can ask questions and arrange meetings with potential emotional support animals.
 
 - **Safety Measures:** As a concerned individual, I want to know that all animals on the platform are verified and safe so that I can trust my future companion.
 
@@ -84,6 +84,14 @@ SoulPet aims to be a leading platform that intuitively links individuals in sear
 ---
 
 ## Activity Diagrams
+
+# SoulPet Activity Diagrams
+
+## User Story: Finding the Right Match
+_As a lonely individual, I want to find an emotional support animal that matches my personality so that I can have a companion who understands and complements me._
+
+## User Story: Profile Creation
+_As a new user, I want to easily create a profile detailing my interests and personality so that the app can find the best animal match for me._
 
 ![Activity Diagram](https://github.com/software-students-fall2023/1-specification-exercise-jpem/assets/49916453/7be85f48-a1fb-44b9-a0f3-a7adafbf7d9a)
 
