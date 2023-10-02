@@ -108,7 +108,6 @@ _As a new user, I want to easily create a profile detailing my interests and per
 
 ## Clickable Prototype
 
-For a hands-on experience of our platform's potential, explore our [Prototype on Figma](https://www.figma.com/proto/E62TSABHGrQeDAjX9F26LP/Assignment1?type=design&node-id=16-91&t=DneQQefJ5FTJ9M8U-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design) and another [wireframe idea](https://www.figma.com/file/BK9GHVqGHewVFRj67VVRVc/Untitled?type=design&node-id=0-1&mode=design&t=wer1JOWym6gBuJXH-0)
-
+For a hands-on experience of our platform's potential, explore our [Prototype on Figma](https://www.figma.com/proto/E62TSABHGrQeDAjX9F26LP/Assignment1?type=design&node-id=16-91&t=DneQQefJ5FTJ9M8U-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design) 
 
 ---
