@@ -85,12 +85,10 @@ SoulPet aims to be a leading platform that intuitively links individuals seeking
 
 ## Activity Diagrams
 
-# SoulPet Activity Diagrams
-
-## User Story: Finding the Right Match
+### User Story: Finding the Right Match
 _As a lonely individual, I want to find an emotional support animal that matches my personality so that I can have a companion who understands and complements me._
 
-## User Story: Profile Creation
+### User Story: Profile Creation
 _As a new user, I want to easily create a profile detailing my interests and personality so that the app can find the best animal match for me._
 
 ![Activity Diagram](https://github.com/software-students-fall2023/1-specification-exercise-jpem/assets/49916453/7be85f48-a1fb-44b9-a0f3-a7adafbf7d9a)
