@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Marwan AbdElhameed](https://github.com/MarwanWalid2/)
 [Ethan Delgado](https://github.com/ethan-delgado)
+[Pavly Halim](https://github.com/pavlyhalim)
 
 ## Stakeholders
 
