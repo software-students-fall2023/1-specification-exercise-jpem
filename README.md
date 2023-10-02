@@ -18,24 +18,40 @@ A little exercise to get started with the specification phase of the software de
 - [Marwan AbdElhameed](https://github.com/MarwanWalid2/)
 - [Ethan Delgado](https://github.com/ethan-delgado)
 - [Pavly Halim](https://github.com/pavlyhalim)
+- [Jazlene Darrisaw](https://github.com/Jazlene30)
 
 ---
 
 ## Stakeholders
 
+
 **Interview Insights:** A college-aged student facing challenges of detachment from loved ones and the unfamiliarity of a large city. They are in search of a supportive community.
+### StakeHolder: **Talani D.**
 
 ### Identified Problems:
 1. Limited access to mental health support.
 2. Encountering redundant paperwork when seeking an animal.
 3. Difficulty in authenticating establishments that provide support animals, leading to a verification burden on the user.
 4. Struggles to locate specific animals, resulting in prolonged online searches.
+5. Too little information provided about animals and their traits when trying to adopt.
+6. Fears of being scammed by unreliable adoption services.
+7. Worries of wasting time with unprofessional services.
 
 ### Stakeholder Objectives:
 1. A streamlined application for efficient mental support access.
 2. Animal matches that align with their personality traits.
 3. Assurance of animals sourced from authenticated shelters.
 4. A refined filtering system for emotional support animals based on care requirements and the level of support they offer.
+5. Gaining a Furr-Ever Friend!
+6. Exploring more efficient ways deal with Anxiety and Stress.
+7. Locating the right animal that suits their lifestyle (Ex: An active pet for an active and adventurous person).
+8. A way to find a legitimate ESA's without encountering questionable adoption services.
+9. To help more animals find homes and match with people in need of a companion.
+10. To Provide a different solution for those who need assistance with mental health but may not be able to schedule appointments with a therapist or psychologist.
+
+
+
+
 
 ---
 
